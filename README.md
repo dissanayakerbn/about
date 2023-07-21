@@ -25,7 +25,7 @@ Some of the courses I have taught in the past include:
 - MAT 4305 – Stochastic Process (2021)
 - MAT 3206 – Data Analysis Using Computer Software
 - MAT 3209 – Statistical Computing Using Software
-- MAA 1302 – Probability and Statistics I (2022)
+- MAA 1302 – Probability and Statistics (2022)
 - MAT 3214 – Applied Statistics
 
 ## Publications
