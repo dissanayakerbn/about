@@ -26,6 +26,7 @@ Some of the courses I have taught in the past include:
 - MAT 3206 – Data Analysis Using Computer Software
 - MAT 3209 – Statistical Computing Using Software
 - MAA 1302 – Probability and Statistics I (2022)
+- MAT 3214 – Applied Statistics
 
 ## Publications
 
